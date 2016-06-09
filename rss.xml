@@ -4,7 +4,7 @@
         <description><![CDATA[FEED ME EE EE]]></description>
         <link>https://thegrid.ai/feed-me-ee-ee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 20:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 20:11:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/feed-me-ee-ee/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.apple.com/uk/ipad/</link>
             <guid isPermaLink="false">07659d21-2af4-42d8-a11c-9c2682aba958</guid>
             <pubDate>Thu, 09 Jun 2016 20:09:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Impossible Project's first instant camera has an app with full manual controls]]></title>
+            <description><![CDATA[<article><h1>The Impossible Project's first instant camera has an app with full manual controls</h1><p>The Impossible Project is best known for keeping Polaroid's type 600 instant film format alive even after it was abandoned by the long-time camera maker in 2008. The company also refurbishes old Polaroid type 600 cameras in order to resell them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c48b764b8e712eab67051afd16854e8d8ce70f6.png"></article>]]></description>
+            <link>http://www.theverge.com/2016/4/11/11409572/impossible-project-instant-camera-app-polaroid-format</link>
+            <guid isPermaLink="false">a6b33884-b326-430b-b37c-845a4072c1fc</guid>
+            <pubDate>Thu, 09 Jun 2016 19:43:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
